@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Sistema_Escolar.Application/Sistema_Escolar.Application.csproj" />
+  <Project Path="Sistema_Escolar.Domain/Sistema_Escolar.Domain.csproj" />
+  <Project Path="Sistema_Escolar.Infrastructure/Sistema_Escolar.Infrastructure.csproj" />
+  <Project Path="Sistema_Escolar_Confia/Sistema_Escolar_Confia.csproj" />
+</Solution>

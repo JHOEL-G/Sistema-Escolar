@@ -1,0 +1,6 @@
+@Sistema_Escolar_Confia_HostAddress = http://localhost:5257
+
+GET {{Sistema_Escolar_Confia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
